@@ -1,0 +1,35 @@
+_repo: The-Overcoming-Life-and-Other-Sermons_33015
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, Dwight L.
+    - Moody, D. L. (Dwight Lyman)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2010-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evangelistic work'
+- !lcsh 'Sermons, American'
+- !lcsh 'Evangelistic sermons'
+- !lcc 'BV'
+tableOfContents: 'The overcoming life: pt. 1: The Christian''s warfare. pt. 2: Internal
+  foes. pt. 3: External foes -- Results of true repentance -- True wisdom -- "Come
+  thou and all thy house into the ark" -- Humility -- Rest -- Seven "I wills" of Christ.'
+title: The Overcoming Life, and Other Sermons
+url: http://www.gutenberg.org/ebooks/33015
